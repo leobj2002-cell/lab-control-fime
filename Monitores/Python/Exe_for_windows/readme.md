@@ -5,3 +5,4 @@ El archivo fue elaborado con el comando
 ```py
 pyInstaller -cF monitor.py
 ```
+//thx
